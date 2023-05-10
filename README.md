@@ -28,7 +28,7 @@
 
 <h3>My projects</h3>
 <a href="https://github.com/Abebe-Nigusu/EtikitCinema"><b>EticketCinema</b></a> <br /> <br />
-<p>This Project Java Spring Boot as a backend and React and Bootstrap as frontend for UI.</p>
+<p>This Project leverages Java Spring Boot as a backend and React and Bootstrap as frontend for UI.</p>
  <img src="https://github.com/NikitaMears/portfolio/blob/main/photo_2023-05-10_00-19-40.jpg" width="800" height="600" /> 
  
  <a href="https://github.com/Abebe-Nigusu/ChatApp"><b>Chat Application</b></a> <br /> <br />
