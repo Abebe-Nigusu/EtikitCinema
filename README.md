@@ -33,6 +33,9 @@
  
  <a href="https://github.com/Abebe-Nigusu/ChatApp"><b>Chat Application</b></a> <br /> <br />
  <img src="https://github.com/NikitaMears/portfolio/blob/main/photo_2023-05-10_00-28-44.jpg" width="800" height="600" /> 
+ <a href="https://github.com/Abebe-Nigusu/Weather-API"><b>Weather API</b></a> <br /> <br />
+ <img src="https://github.com/Abebe-Nigusu/Weather-API/blob/main/flask_app/static/app images/WeatherLogin.png" width="800" height="600" /> 
+ <img src="https://github.com/Abebe-Nigusu/Weather-API/blob/main/flask_app/static/app%20images/WeatherAPI.png" width="800" height="600" /> 
  
  
 <h3>Where to find me</h3>
